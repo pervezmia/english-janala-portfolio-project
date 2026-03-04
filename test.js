@@ -1,9 +1,9 @@
-const createElement = (arr) => {
-    const htmlElements = arr.map(el => `<span class="btn">${el}</span>`)
-    console.log(htmlElements.join(""));
-};
+// const createElement = (arr) => {
+//     const htmlElements = arr.map(el => `<span class="btn">${el}</span>`)
+//     console.log(htmlElements.join(""));
+// };
 
 
-const synonyms = ["value", "hi", "hey"]
+// const synonyms = ["value", "hi", "hey"]
 
-createElements(synonyms);
+// createElements(synonyms);
